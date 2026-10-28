@@ -45,9 +45,6 @@ cd haunted-shell-ai
 Bash
 python main.py
 
-Preview
-<img width="1088" height="707" alt="week4" src="https://github.com/user-attachments/assets/60dab8c2-fca2-4850-b067-aaae055ba3d0" />
-
 🛠️ Tech Stack
 Language: Python
 
